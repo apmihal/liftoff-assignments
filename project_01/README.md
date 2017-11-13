@@ -13,7 +13,7 @@ In order to solve those problems I plan to create a website that easily allows
 for a list of performers to be created and rearranged.
 
 ## Features
--Easily Managed Lists: Allow users to create lineups for their shows, easily
+Easily Managed Lists: Allow users to create lineups for their shows, easily
     drop in performers at any slot, and rearrange them as they see fit.
 
 Show History: Allow users to see the lineups of their previous shows, and to
@@ -22,17 +22,22 @@ Show History: Allow users to see the lineups of their previous shows, and to
 Cross Off a Performer: Allow users to easily designate and distinguish between
     a performer that has already performed, and ones waiting to perform.
 
--User Login: Allow users to log in to manage the list of their current show,
+User Login: Allow users to log in to manage the list of their current show,
     look at lists from their previous shows, and manage future shows.
 
 ## Technologies
 
--Java
--Thymeleaf
--Spring Boot
--Hibernate
--MySQL
--JavaScript
+Java
+
+Thymeleaf
+
+Spring Boot
+
+Hibernate
+
+MySQL
+
+JavaScript
 
 ## What I'll Have to Learn
 

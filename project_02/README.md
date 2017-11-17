@@ -4,9 +4,9 @@
 
 <!-- (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.) -->
 
-* ![Show Creator](/showcreator.jpg)
-* ![Show Manager](/showmanager.jpg)
-* ![Performance Editor](/performanceeditor.jpg)
+* ![Show Creator](https://github.com/apmihal/liftoff-assignments/blob/master/project_02/showcreator.jpg)
+* ![Show Manager](https://github.com/apmihal/liftoff-assignments/blob/master/project_02/showmanager.jpg)
+* ![Performance Editor](https://github.com/apmihal/liftoff-assignments/blob/master/project_02/performanceeditor.jpg)
 
 ## Project Tracker
 

@@ -4,9 +4,9 @@
 
 <!-- (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.) -->
 
-* ![Show Creator](https://imgur.com/tOUSYHE.jpg)
-* ![Show Manager](https://imgur.com/04NDwXk.jpg)
-* ![Performance Editor](https://imgur.com/RnfzLcb.jpg)
+* ![Show Creator](https://imgur.com/tOUSYHE.jpg "Show Creator")
+* ![Show Manager](https://imgur.com/04NDwXk.jpg "Show Manager")
+* ![Performance Editor](https://imgur.com/RnfzLcb.jpg "Performance Editor")
 
 ## Project Tracker
 
